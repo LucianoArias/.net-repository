@@ -2,6 +2,7 @@
 int numeroElegido;
 int intentos = 1;
 Console.WriteLine("ADIVINA EL NÚMERO!!");
+
 do
 {
     Console.Write("Ingrese un número del 1 al 20 para adivinar: ");
